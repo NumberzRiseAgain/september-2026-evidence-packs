@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: "September 2026 evidence packs"
+message: "If you use this software, please cite it."
+type: software
+authors:
+  - family-names: Venkat
+    given-names: Raghu
+    affiliation: "Numberz.ai Inc."
+  - family-names: Anjali
+    given-names: Tricha
+    affiliation: "Numberz.ai Inc."
+repository-code: "https://github.com/NumberzRiseAgain/september-2026-evidence-packs"
+license: MIT
+date-released: 2026-09-19

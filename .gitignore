@@ -1,0 +1,16 @@
+# Symlinks into each pursuit's 08_Analysis; the repositories themselves are public.
+packs/
+# Internal bid economics, not published.
+win_probability/
+.DS_Store
+__pycache__/
+
+# Internal: the working register and the run summary stay on the pursuit tree.
+CODE_AND_STUDY_REGISTER.md
+00_README.md
+run_all_packs.sh
+publish_repos.sh
+fix_index_repo.sh
+redact_two.sh
+fix_index_repo.sh
+REPUBLISH_2026-09-22.md
